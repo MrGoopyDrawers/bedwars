@@ -1,0 +1,10 @@
+C:\Users\pauls\Documents\BTD6 Mod Sources\BedwarsTowers\bin\Debug\net6.0\BedwarsTowers.deps.json
+C:\Users\pauls\Documents\BTD6 Mod Sources\BedwarsTowers\bin\Debug\net6.0\BedwarsTowers.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\BedwarsTowers\obj\Debug\net6.0\BedwarsTowers.csproj.AssemblyReference.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\BedwarsTowers\obj\Debug\net6.0\BedwarsTowers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauls\Documents\BTD6 Mod Sources\BedwarsTowers\obj\Debug\net6.0\BedwarsTowers.AssemblyInfoInputs.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\BedwarsTowers\obj\Debug\net6.0\BedwarsTowers.AssemblyInfo.cs
+C:\Users\pauls\Documents\BTD6 Mod Sources\BedwarsTowers\obj\Debug\net6.0\BedwarsTowers.csproj.CoreCompileInputs.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\BedwarsTowers\obj\Debug\net6.0\BedwarsTowers.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\BedwarsTowers\obj\Debug\net6.0\refint\BedwarsTowers.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\BedwarsTowers\obj\Debug\net6.0\ref\BedwarsTowers.dll
