@@ -3,7 +3,7 @@ namespace BedwarsTowers;
 public static class ModHelperData
 {
     public const string WorksOnVersion = "37.3";
-    public const string Version = "1.0.0";
+    public const string Version = "1.0.1";
     public const string Name = "BedwarsTowers";
 
     public const string Description = "These are from roblox bedwars kits";
